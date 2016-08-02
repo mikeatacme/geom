@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/ctessum/geom"
+	"github.com/mikeatacme/geom"
 )
 
 const EPS = 0.000000001

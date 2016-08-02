@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ctessum/geom"
+	"github.com/mikeatacme/geom"
 )
 
 func TestSimplify(t *testing.T) {

@@ -4,7 +4,7 @@ They can be encoded and decoded by other packages in this repository.
 */
 package geom
 
-import "github.com/ctessum/geom/proj"
+import "github.com/mikeatacme/geom/proj"
 
 // Geom is an interface for generic geometry types.
 type Geom interface {

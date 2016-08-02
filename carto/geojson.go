@@ -2,8 +2,8 @@ package carto
 
 import (
 	"encoding/json"
-	"github.com/ctessum/geom"
-	"github.com/ctessum/geom/encoding/geojson"
+	"github.com/mikeatacme/geom"
+	"github.com/mikeatacme/geom/encoding/geojson"
 	"io"
 )
 

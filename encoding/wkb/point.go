@@ -2,7 +2,7 @@ package wkb
 
 import (
 	"encoding/binary"
-	"github.com/ctessum/geom"
+	"github.com/mikeatacme/geom"
 	"io"
 )
 

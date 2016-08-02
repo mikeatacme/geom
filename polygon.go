@@ -1,6 +1,6 @@
 package geom
 
-import "github.com/ctessum/polyclip-go"
+import "github.com/mikeatacme/polyclip-go"
 
 // A Polygon is a series of closed rings. The inner rings should be nested
 // inside of the outer ring.

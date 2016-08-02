@@ -30,7 +30,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/ctessum/geom"
+	"github.com/mikeatacme/geom"
 )
 
 // Equals returns true if both p1 and p2 describe the same point within

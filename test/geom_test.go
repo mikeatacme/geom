@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/ctessum/geom/encoding/hex"
-	"github.com/ctessum/geom/encoding/wkb"
+	"github.com/mikeatacme/geom/encoding/hex"
+	"github.com/mikeatacme/geom/encoding/wkb"
 	"reflect"
 	"testing"
 )

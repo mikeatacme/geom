@@ -1,6 +1,6 @@
 package geom
 
-import "github.com/ctessum/geom/proj"
+import "github.com/mikeatacme/geom/proj"
 
 // Transform shifts the coordinates of p according to t.
 func (p Point) Transform(t proj.Transformer) (Geom, error) {
